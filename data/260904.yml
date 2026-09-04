@@ -7,7 +7,7 @@ about:
   head: 3e071e0
   archived: false
   latestVersion: v12.0.0
-  collectedAt: 2026-09-04T19:27:52Z
+  collectedAt: 2026-09-04T21:05:19Z
 timeline:
   created: 2013-03-22
   lastCommit: 2024-02-27
@@ -81,6 +81,39 @@ total:
   openIssue: 13
   commit: 318
 ---
+path: /home/runner/.x-repo/github.com/juliangruber/browser-run
+collectedAt: 2026-09-04T21:05:19Z
+loc:
+  Json:
+    code: 13848
+    comments: 0
+    blanks: 0
+    files: 2
+  JavaScript:
+    code: 405
+    comments: 1
+    blanks: 75
+    files: 14
+  Html:
+    code: 10
+    comments: 0
+    blanks: 0
+    files: 1
+  Yaml:
+    code: 5
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 128
+    blanks: 68
+    files: 3
+total:
+  code: 14295
+  comments: 130
+  blanks: 144
+  files: 21
 ---
 date: "2026-08-24"
 repo:
