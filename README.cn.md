@@ -4,7 +4,7 @@
 
 Run code inside a browser from the command line
 
-![browser-run](https://repo.x-cmd.io/browser-run.svg)
+![browser-run](https://repo.x-cmd.io/browser-run.svg?lang=zh)
 
 ## 安装
 
@@ -21,7 +21,6 @@ x install browser-run
 
 - **最新版本**: `v12.0.0` (2023-09-09)
 - **最近提交**: 2024-02-27
-- **发布时间**: 2023-09-09T20:28:36Z
 
 ## 流行度
 
@@ -70,4 +69,4 @@ browser-run 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:27:14Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:55:40Z._
