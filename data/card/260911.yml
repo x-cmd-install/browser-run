@@ -198,4 +198,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 9 are checked with a SAST tool'
 ---
-{"id":120528452,"author":{"login":"juliangruber","id":10247,"node_id":"MDQ6VXNlcjEwMjQ3","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAIi9-M4HLx5E","tag_name":"v12.0.0","target_commitish":"main","name":"","draft":false,"immutable":false,"prerelease":false,"created_at":"2023-09-09T20:28:18Z","updated_at":"2023-09-09T20:28:36Z","published_at":"2023-09-09T20:28:36Z","assets":[],"body":"- pkg: add `engines.node`  3d00688\r\n- upgrade `np`  caa4abb\r\n- upgrade `electron-stream`  b3d3845\r\n- fix test  dbe0ff4\r\n- switch from node-core-test to test  237a459\r\n- Revert &quot;update electron-stream&quot;  08b0f3e\r\n- update electron-stream  b8ed25c\r\n\r\nhttps://github.com/juliangruber/browser-run/compare/v11.0.0...v12.0.0"}
